@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "lib-flexible": "^0.3.2",
     "mint-ui": "^2.2.9",
     "moment": "^2.19.3",
